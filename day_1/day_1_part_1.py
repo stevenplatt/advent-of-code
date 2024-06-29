@@ -1,3 +1,5 @@
+# https://adventofcode.com/2023/day/1
+
 file = open('input.txt', 'r')
 
 def add_number (file):
